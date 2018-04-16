@@ -1,0 +1,4 @@
+language: java
+notifications:
+    email:
+        on_success: never
